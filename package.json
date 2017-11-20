@@ -61,7 +61,7 @@
     "chai-spies": "^0.7.1",
     "cheerio": "^1.0.0-rc.2",
     "commitizen": "^2.9.6",
-    "continuation-local-storage": "^3.2.0",
+    "continuation-local-storage": "^3.2.1",
     "cross-env": "^5.0.5",
     "cz-conventional-changelog": "^2.0.0",
     "env-cmd": "^7.0.0",
